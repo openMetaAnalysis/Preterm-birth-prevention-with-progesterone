@@ -1,4 +1,4 @@
-# Preterm-delivery prevention with progesterone
+# Preterm-birth prevention with progesterone
 
 A living systematic review
 
@@ -20,9 +20,9 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 The forest plot for the primary outcomes are below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Preterm-delivery-prevention-with-progesterone/master/forest-plots/Outcome-Primary.png "Principle results for benefit]")
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Preterm-birth-prevention-with-progesterone/master/forest-plots/Outcome-Primary.png "Principle results for benefit]")
 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Preterm-delivery-prevention-with-progesterone/master/forest-plots/Outcome-Perinatal.png "Principle results for benefit]")
+birth![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Preterm-birth-prevention-with-progesterone/master/forest-plots/Outcome-Perinatal.png "Principle results for benefit]")
 
 References:
 ----------------------------------
