@@ -2,6 +2,10 @@
 
 A living systematic review
 
+**Alert**
+Prior M, Hibberd R, Asemota N, Thornton JG. Inadvertent P-hacking among trials and systematic reviews of the effect of progestogens in pregnancy? A systematic review and meta-analysis. BJOG. 2017 Mar 20. doi: 10.1111/1471-0528.14506. [Epub 
+ahead of print] Review. PubMed PMID: [28318099](http://pubmed.gov/28318099)
+
 **Clinical summary:** This meta-analysis suggests that intramuscular progesterone *is* effective at reducing neonatal mortality and preterm birth (< 34 weeks). 
 
 [Keep current with this topic](Keep-up.md) (under development)
