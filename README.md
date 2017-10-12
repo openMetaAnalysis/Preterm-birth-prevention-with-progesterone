@@ -48,6 +48,8 @@ after an episode of preterm labor (PROMISE Study): a randomized, double blinded,
 1. Martinez de Tejada B, Karolinski A, Ocampo MC, Laterra C, Hösli I, Fernández D, et al; 4P trial group.. Prevention of preterm delivery with vaginal progesterone in women with preterm labour (4P): randomised double-blind placebo-controlled trial. BJOG. 2015 Jan;122(1):80-91. PMID [25209926](http://pubmed.gov/25209926)
 2. Winer N, Bretelle F, Senat MV, Bohec C, Deruelle P, Perrotin F, Connan L, Vayssière C, Langer B, Capelle M, Azimi S, Porcher R, Rozenberg P; Groupe de Recherche en Obstétrique et Gynécologie.. 17 alpha-hydroxyprogesterone caproate does not prolong pregnancy or reduce the rate of preterm birth in women at high risk for preterm delivery and a short cervix: a randomized controlled trial. Am J Obstet Gynecol. 2015 PMID: [25448515](http://pubmed.gov/25448515)
 3. Hernandez WR, Francisco RPV, Bittar RE, Gomez UT, Zugaib M, Brizot ML. Effect of vaginal progesterone in tocolytic therapy during preterm labor in twin pregnancies: Secondary analysis of a placebo-controlled randomized trial. J Obstet Gynaecol Res. 2017 Jul 14. doi: 10.1111/jog.13421. PMID: [28707771](http://pubmed.gov/28707771)
+4. 1: Choi SJ. Use of progesterone supplement therapy for prevention of preterm birth: review of literatures. Obstet Gynecol Sci. 2017 Sep;60(5):405-420. doi: 10.5468/ogs.2017.60.5.405. Epub 2017 Sep 18. PMID: [28989916](http://pubmed.gov/28989916).
+
 
 #### New study(s) *excluded* 
 None
