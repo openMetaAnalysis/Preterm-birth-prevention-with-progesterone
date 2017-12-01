@@ -51,6 +51,8 @@ after an episode of preterm labor (PROMISE Study): a randomized, double blinded,
 3. Hernandez WR, Francisco RPV, Bittar RE, Gomez UT, Zugaib M, Brizot ML. Effect of vaginal progesterone in tocolytic therapy during preterm labor in twin pregnancies: Secondary analysis of a placebo-controlled randomized trial. J Obstet Gynaecol Res. 2017 Jul 14. doi: 10.1111/jog.13421. PMID: [28707771](http://pubmed.gov/28707771)
 4. Choi SJ. Use of progesterone supplement therapy for prevention of preterm birth: review of literatures. Obstet Gynecol Sci. 2017 Sep;60(5):405-420. doi: 10.5468/ogs.2017.60.5.405. Epub 2017 Sep 18. PMID: [28989916](http://pubmed.gov/28989916).
 5. Romero R, Conde-Agudelo A, Da Fonseca E, O'Brien JM, Cetingoz E, Creasy GW, Hassan SS, Nicolaides KH. Vaginal Progesterone for Preventing Preterm Birth and Adverse Perinatal Outcomes in Singleton Gestations with a Short Cervix: A Meta-Analysis of Individual Patient Data. Am J Obstet Gynecol. 2017 Nov 16. pii: S0002-9378(17)32343-8. doi: 10.1016/j.ajog.2017.11.576. PMID: [29157866](http://pubmed.gov/29157866).
+6. 1: Stewart LA, Simmonds M, Duley L, et al; EPPPIC group. Evaluating progestogens for prevention of preterm birth international collaborative (EPPPIC) individual participant data (IPD) meta-analysis: protocol. Syst Rev. 2017 Nov 28;6(1):235. doi: 10.1186/s13643-017-0600-x. PMID: [29183399](http://pubmed.gov/29183399).
+
 
 
 
