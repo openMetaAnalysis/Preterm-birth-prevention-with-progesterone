@@ -43,6 +43,7 @@ References:
 2. Azargoon A, Ghorbani R, Aslebahar F. Vaginal progesterone on the prevention of preterm birth and neonatal complications in high risk women: A randomized placebo-controlled double-blind study. Int J Reprod Biomed (Yazd). 2016 May;14(5):309-16. PMID: [27326415](http://pubmed.gov/27326415); PMCID: [PMC4910039](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910039/)
 
 #### New study(s) undergoing review
+1. Conde-Agudelo A, Romero R, Da Fonseca E, O'Brien JM, Cetingoz E, Creasy GW, Hassan SS, Erez O, Pacora P, Nicolaides KH. Vaginal Progesterone is as Effective as Cervical Cerclage to Prevent Preterm Birth in Women with a Singleton Gestation, Previous Spontaneous Preterm Birth and a Short Cervix: Updated Indirect Comparison Meta-Analysis. Am J Obstet Gynecol. 2018 Apr 6. pii: S0002-9378(18)30243-6. doi: 10.1016/j.ajog.2018.03.028. [Epub ahead of print] PMID: [29630885](http://pubmed.gov/29630885).
 1. Palacio M, Cobo T, Antolın E, Ramirez M, Cabrera F, Mozo de Rosales F, et al. Vaginal progesterone as maintenance treatment
 after an episode of preterm labor (PROMISE Study): a randomized, double blinded, placebo-controlled trial. Am J Obstet Gynecol
 2013;208:S10–1.
