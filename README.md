@@ -43,12 +43,10 @@ References:
 2. Azargoon A, Ghorbani R, Aslebahar F. Vaginal progesterone on the prevention of preterm birth and neonatal complications in high risk women: A randomized placebo-controlled double-blind study. Int J Reprod Biomed (Yazd). 2016 May;14(5):309-16. PMID: [27326415](http://pubmed.gov/27326415); PMCID: [PMC4910039](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910039/)
 
 #### New study(s) undergoing review
-1. 1: Cruz-Melguizo S, San-Frutos L, Martínez-Payo C, Ruiz-Antorán B, Adiego-Burgos 
-B, Campillos-Maza JM, García-González C, Martínez-Guisasola J, Pérez-Carbajo E,
-Teulón-González M, Avendaño-Solá C, Pérez-Medina T. Cervical Pessary Compared
-With Vaginal Progesterone for Preventing Early Preterm Birth: A Randomized
-Controlled Trial. Obstet Gynecol. 2018 Sep 7. doi: 10.1097/AOG.0000000000002884. 
-[Epub ahead of print] PubMed PMID: 30204689.
+1. Zipori Y, Lauterbach R, Matanes E, Beloosesky R, Weiner Z, Weissman A. Vaginal progesterone for the prevention of preterm birth and the risk of gestational diabetes. Eur J Obstet Gynecol Reprod Biol. 2018 Sep 11;230:6-9. doi:
+10.1016/j.ejogrb.2018.09.011. PMID: [30237138](http://pubmed.gov/30237138).
+1. Cruz-Melguizo S, San-Frutos L, Martínez-Payo C, Ruiz-Antorán B, Adiego-Burgos B, Campillos-Maza JM, García-González C, Martínez-Guisasola J, Pérez-Carbajo E, Teulón-González M, Avendaño-Solá C, Pérez-Medina T. Cervical Pessary Compared
+With Vaginal Progesterone for Preventing Early Preterm Birth: A Randomized Controlled Trial. Obstet Gynecol. 2018 Sep 7. doi: 10.1097/AOG.0000000000002884. PMID: 30204689.
 1. Conde-Agudelo A, Romero R, Da Fonseca E, O'Brien JM, Cetingoz E, Creasy GW, Hassan SS, Erez O, Pacora P, Nicolaides KH. Vaginal Progesterone is as Effective as Cervical Cerclage to Prevent Preterm Birth in Women with a Singleton Gestation, Previous Spontaneous Preterm Birth and a Short Cervix: Updated Indirect Comparison Meta-Analysis. Am J Obstet Gynecol. 2018 Apr 6. pii: S0002-9378(18)30243-6. doi: 10.1016/j.ajog.2018.03.028. [Epub ahead of print] PMID: [29630885](http://pubmed.gov/29630885).
 1. Palacio M, Cobo T, Antolın E, Ramirez M, Cabrera F, Mozo de Rosales F, et al. Vaginal progesterone as maintenance treatment
 after an episode of preterm labor (PROMISE Study): a randomized, double blinded, placebo-controlled trial. Am J Obstet Gynecol
